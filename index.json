@@ -1,0 +1,11 @@
+{
+  "org": "pyg-team",
+  "repo": "pytorch_geometric",
+  "versions": [
+    {
+      "commit": "d1f2f8642387b6e0563d6aee227c39130746c738",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:34:55.706980+00:00"
+    }
+  ]
+}
