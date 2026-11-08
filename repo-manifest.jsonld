@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyg-team/pytorch_geometric/commit/d1f2f8642387b6e0563d6aee227c39130746c738",
       "git:hexsha": "d1f2f8642387b6e0563d6aee227c39130746c738",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyg-team/pytorch_geometric/commit/9eeb18d61feb56cc98cd81e46af2270d768d53f1",
